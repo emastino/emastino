@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @emastino
+- 👋 Hi, I’m @emastino, an aerospace graduate student studying autonomous systems
 - 👀 I’m interested in mechatronics, robotics, and controls!
 - 🌱 I’m currently learning autonomous systems
 - 💞️ I’m looking to collaborate on just about anything! I would like to learn more about networking
