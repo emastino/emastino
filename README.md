@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @emastino, an aerospace graduate student studying autonomous systems
-- 👀 I’m interested in mechatronics, robotics, and controls!
-- 🌱 I’m currently learning autonomous systems
-- 💞️ I’m looking to collaborate on just about anything! I would like to learn more about networking
+- 👋 Hi, I’m @emastino, an aerospace engineer that loves to learn about robots
+- 👀 I’m interested in embedded, robotics, and controls!
+- 🌱 I’m currently learning sensor modeling, Morse code, and UAVs
+- 💞️ I’m looking to collaborate on just about anything! I would like to learn more about software architecture
 
 <!---
 emastino/emastino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
